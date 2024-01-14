@@ -30,11 +30,11 @@ npm install
 ## Run the Application:
 ```bash
 # Start the frontend server
-cd ../frontend
+cd frontend
 npm run dev
 
 # Start the backend server
-cd ../backend
+cd backend
 npm run dev
 ```
 
