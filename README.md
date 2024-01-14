@@ -19,7 +19,7 @@ cd frontend
 npm install
 
 # Install backend dependencies
-cd ../backend
+cd backend
 npm install
 ```
 
